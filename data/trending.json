@@ -1,71 +1,37 @@
 {
-  "updated_at": "2026-11-23T17:33:50Z",
+  "updated_at": "2026-11-23T18:44:09Z",
   "count": 78,
   "repositories": [
+    {
+      "full_name": "morluto/rea",
+      "category": "mcp",
+      "categories": [
+        "mcp"
+      ],
+      "stars": 475344,
+      "stars_delta": 62,
+      "stars_per_day": 2124.5,
+      "forks": 115843,
+      "language": "TypeScript",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "topics": "agent-skills, ai, android, claude-code, cli, cpp",
+      "url": "https://github.com/morluto/rea",
+      "pushed_at": "2026-11-23"
+    },
     {
       "full_name": "stablyai/orca",
       "category": "ai-agents",
       "categories": [
         "ai-agents"
       ],
-      "stars": 134217,
-      "stars_delta": 6,
-      "stars_per_day": 533.5,
-      "forks": 8578,
+      "stars": 134270,
+      "stars_delta": 53,
+      "stars_per_day": 533.6,
+      "forks": 8580,
       "language": "TypeScript",
       "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
       "topics": "agent-ide, ai-agents, automation, bot, claude-code, codex",
       "url": "https://github.com/stablyai/orca",
-      "pushed_at": "2026-11-23"
-    },
-    {
-      "full_name": "pierridotite/mobile-agent-testers",
-      "category": "rising",
-      "categories": [
-        "rising"
-      ],
-      "stars": 1341,
-      "stars_delta": 4,
-      "stars_per_day": 193.5,
-      "forks": 129,
-      "language": "Python",
-      "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
-      "topics": "accessibility-testing, ai-agents, ai-testing, android, android-emulator, claude",
-      "url": "https://github.com/pierridotite/mobile-agent-testers",
-      "pushed_at": "2026-11-23"
-    },
-    {
-      "full_name": "Ebony-Vinyl/dsh-our-free-model",
-      "category": "ai-agents",
-      "categories": [
-        "ai-agents"
-      ],
-      "stars": 84934,
-      "stars_delta": 3,
-      "stars_per_day": 1414.3,
-      "forks": 2387,
-      "language": "JavaScript",
-      "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
-      "topics": "ai-agents, deepseek, deepseek-harness, developer-tools, dsh, dsh-plugin",
-      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
-      "pushed_at": "2026-11-23"
-    },
-    {
-      "full_name": "Graphify-Labs/graphify",
-      "category": "mcp",
-      "categories": [
-        "mcp",
-        "ai-agents",
-        "llm"
-      ],
-      "stars": 152409,
-      "stars_delta": 3,
-      "stars_per_day": 651.1,
-      "forks": 14652,
-      "language": "Python",
-      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "topics": "ai-agents, antigravity, ast, claude-code, code-analysis, code-search",
-      "url": "https://github.com/Graphify-Labs/graphify",
       "pushed_at": "2026-11-23"
     },
     {
@@ -75,14 +41,30 @@
         "ai-agents",
         "llm"
       ],
-      "stars": 207660,
-      "stars_delta": 3,
+      "stars": 207705,
+      "stars_delta": 45,
       "stars_per_day": 218.2,
-      "forks": 10855,
+      "forks": 10857,
       "language": "TypeScript",
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "topics": "ai, ai-agents, ai-crawler, ai-scraping, ai-search, crawler",
       "url": "https://github.com/firecrawl/firecrawl",
+      "pushed_at": "2026-11-23"
+    },
+    {
+      "full_name": "Ebony-Vinyl/dsh-our-free-model",
+      "category": "ai-agents",
+      "categories": [
+        "ai-agents"
+      ],
+      "stars": 84973,
+      "stars_delta": 39,
+      "stars_per_day": 1413.8,
+      "forks": 2388,
+      "language": "JavaScript",
+      "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+      "topics": "ai-agents, deepseek, deepseek-harness, developer-tools, dsh, dsh-plugin",
+      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
       "pushed_at": "2026-11-23"
     },
     {
@@ -91,79 +73,14 @@
       "categories": [
         "rising"
       ],
-      "stars": 2974,
-      "stars_delta": 2,
-      "stars_per_day": 1402.6,
-      "forks": 192,
+      "stars": 3012,
+      "stars_delta": 38,
+      "stars_per_day": 1388.5,
+      "forks": 194,
       "language": "Rust",
       "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "topics": "agent-skills, ai-agents, claude-code, claude-code-plugin, codex, developer-tools",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "pushed_at": "2026-11-23"
-    },
-    {
-      "full_name": "cheaper-inference/OmniRoute",
-      "category": "mcp",
-      "categories": [
-        "mcp",
-        "ai-agents"
-      ],
-      "stars": 89809,
-      "stars_delta": 2,
-      "stars_per_day": 317.1,
-      "forks": 13924,
-      "language": "TypeScript",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors",
-      "topics": "a2a, ai-agents, ai-gateway, anthropic, claude, claude-code",
-      "url": "https://github.com/cheaper-inference/OmniRoute",
-      "pushed_at": "2026-11-23"
-    },
-    {
-      "full_name": "n8n-io/n8n",
-      "category": "mcp",
-      "categories": [
-        "mcp"
-      ],
-      "stars": 211915,
-      "stars_delta": 2,
-      "stars_per_day": 78.2,
-      "forks": 61634,
-      "language": "TypeScript",
-      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "topics": "ai, apis, automation, cli, data-flow, development",
-      "url": "https://github.com/n8n-io/n8n",
-      "pushed_at": "2026-11-23"
-    },
-    {
-      "full_name": "deepseek-ai/deepseek-harness",
-      "category": "ai-agents",
-      "categories": [
-        "ai-agents"
-      ],
-      "stars": 285995,
-      "stars_delta": 1,
-      "stars_per_day": 2797.4,
-      "forks": 35602,
-      "language": "TypeScript",
-      "description": "DeepSeek Harness: Everything is a Plugin.",
-      "topics": "ai-agents, cordis, dsh, dsh-plugin",
-      "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "pushed_at": "2026-11-22"
-    },
-    {
-      "full_name": "morluto/rea",
-      "category": "mcp",
-      "categories": [
-        "mcp"
-      ],
-      "stars": 475282,
-      "stars_delta": 1,
-      "stars_per_day": 2124.7,
-      "forks": 115836,
-      "language": "TypeScript",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "topics": "agent-skills, ai, android, claude-code, cli, cpp",
-      "url": "https://github.com/morluto/rea",
       "pushed_at": "2026-11-23"
     },
     {
@@ -174,9 +91,9 @@
         "ai-agents",
         "llm"
       ],
-      "stars": 309415,
-      "stars_delta": 1,
-      "stars_per_day": 999.1,
+      "stars": 309449,
+      "stars_delta": 34,
+      "stars_per_day": 999.0,
       "forks": 45520,
       "language": "JavaScript",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
@@ -185,101 +102,21 @@
       "pushed_at": "2026-11-23"
     },
     {
-      "full_name": "Leonxlnx/taste-skill",
-      "category": "ai-agents",
-      "categories": [
-        "ai-agents"
-      ],
-      "stars": 120557,
-      "stars_delta": 1,
-      "stars_per_day": 435.5,
-      "forks": 8081,
-      "language": "JavaScript",
-      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-      "topics": "agent-skills, ai-agents, anti-slop, claude-code, codex, cursor",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "pushed_at": "2026-11-22"
-    },
-    {
-      "full_name": "simplexai-labs/linger",
-      "category": "rising",
-      "categories": [
-        "rising"
-      ],
-      "stars": 4137,
-      "stars_delta": 1,
-      "stars_per_day": 304.8,
-      "forks": 385,
-      "language": "TypeScript",
-      "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing powerful local AI to everyday computers through efficient model–harness co-design, so everyone can run their own.",
-      "topics": "agent-teams, local-llm, memory, personal-agent, proactive-agent, proactive-ai",
-      "url": "https://github.com/simplexai-labs/linger",
-      "pushed_at": "2026-11-23"
-    },
-    {
-      "full_name": "bytedance/deer-flow",
-      "category": "ai-agents",
-      "categories": [
-        "ai-agents",
-        "llm"
-      ],
-      "stars": 85681,
-      "stars_delta": 1,
-      "stars_per_day": 151.5,
-      "forks": 12085,
-      "language": "Python",
-      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "topics": "agent, agentic, agentic-framework, agentic-workflow, ai, ai-agents",
-      "url": "https://github.com/bytedance/deer-flow",
-      "pushed_at": "2026-11-23"
-    },
-    {
-      "full_name": "ollama/ollama",
-      "category": "llm",
-      "categories": [
-        "llm"
-      ],
-      "stars": 187906,
-      "stars_delta": 1,
-      "stars_per_day": 150.8,
-      "forks": 19150,
-      "language": "Go",
-      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "topics": "deepseek, gemma, glm, go, golang, gpt-oss",
-      "url": "https://github.com/ollama/ollama",
-      "pushed_at": "2026-11-23"
-    },
-    {
-      "full_name": "D4Vinci/Scrapling",
+      "full_name": "heygen-com/hyperframes",
       "category": "mcp",
       "categories": [
-        "mcp"
+        "mcp",
+        "ai-agents"
       ],
-      "stars": 105247,
-      "stars_delta": 1,
-      "stars_per_day": 136.5,
-      "forks": 11017,
-      "language": "Python",
-      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-      "topics": "ai, ai-scraping, automation, crawler, crawling, crawling-python",
-      "url": "https://github.com/D4Vinci/Scrapling",
+      "stars": 88812,
+      "stars_delta": 32,
+      "stars_per_day": 343.3,
+      "forks": 8282,
+      "language": "TypeScript",
+      "description": "Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.",
+      "topics": "agent-skills, ai, ai-agents, ai-video, ai-video-editor, animation",
+      "url": "https://github.com/heygen-com/hyperframes",
       "pushed_at": "2026-11-23"
-    },
-    {
-      "full_name": "Moh4696/cinematic-skill",
-      "category": "rising",
-      "categories": [
-        "rising"
-      ],
-      "stars": 936,
-      "stars_delta": 1,
-      "stars_per_day": 65.0,
-      "forks": 150,
-      "language": "Python",
-      "description": "Agent skill for narrated cinematic films built entirely from code: one continuous camera over photos, maps and cards, timed to the voice. Claude Code, Codex, Cursor, Gemini CLI.",
-      "topics": "agent-skills, claude-code, codex, documentary, explainer-video, motion-graphics",
-      "url": "https://github.com/Moh4696/cinematic-skill",
-      "pushed_at": "2026-11-09"
     },
     {
       "full_name": "DietrichGebert/ponytail",
@@ -288,10 +125,10 @@
         "ai-agents",
         "llm"
       ],
-      "stars": 197393,
-      "stars_delta": 0,
-      "stars_per_day": 1198.5,
-      "forks": 11151,
+      "stars": 197419,
+      "stars_delta": 26,
+      "stars_per_day": 1198.3,
+      "forks": 11152,
       "language": "JavaScript",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "topics": "agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules",
@@ -299,53 +136,87 @@
       "pushed_at": "2026-11-22"
     },
     {
-      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
-      "category": "rising",
+      "full_name": "Graphify-Labs/graphify",
+      "category": "mcp",
       "categories": [
-        "rising"
-      ],
-      "stars": 2764,
-      "stars_delta": 0,
-      "stars_per_day": 671.1,
-      "forks": 40,
-      "language": "Multi",
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-      "topics": "ai-agents, ai-assistant, blender, blender-addon, blender-ai, blender-automation",
-      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-      "pushed_at": "2026-11-22"
-    },
-    {
-      "full_name": "NousResearch/hermes-agent",
-      "category": "ai-agents",
-      "categories": [
+        "mcp",
         "ai-agents",
         "llm"
       ],
-      "stars": 265615,
-      "stars_delta": 0,
-      "stars_per_day": 543.4,
-      "forks": 60102,
+      "stars": 152434,
+      "stars_delta": 25,
+      "stars_per_day": 651.1,
+      "forks": 14656,
       "language": "Python",
-      "description": "The agent that grows with you",
-      "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude",
-      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "topics": "ai-agents, antigravity, ast, claude-code, code-analysis, code-search",
+      "url": "https://github.com/Graphify-Labs/graphify",
       "pushed_at": "2026-11-23"
     },
     {
-      "full_name": "iamajmeena/neonclipping",
+      "full_name": "pierridotite/mobile-agent-testers",
       "category": "rising",
       "categories": [
         "rising"
       ],
-      "stars": 2277,
-      "stars_delta": 0,
-      "stars_per_day": 527.7,
-      "forks": 139,
+      "stars": 1363,
+      "stars_delta": 22,
+      "stars_per_day": 195.2,
+      "forks": 130,
       "language": "Python",
-      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
-      "topics": "ai-video-clipper, clipping, faster-whisper, ffmpeg, gameplay-clipper, local-llm",
-      "url": "https://github.com/iamajmeena/neonclipping",
+      "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
+      "topics": "accessibility-testing, ai-agents, ai-testing, android, android-emulator, claude",
+      "url": "https://github.com/pierridotite/mobile-agent-testers",
       "pushed_at": "2026-11-23"
+    },
+    {
+      "full_name": "Leonxlnx/taste-skill",
+      "category": "ai-agents",
+      "categories": [
+        "ai-agents"
+      ],
+      "stars": 120578,
+      "stars_delta": 21,
+      "stars_per_day": 435.5,
+      "forks": 8083,
+      "language": "JavaScript",
+      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "topics": "agent-skills, ai-agents, anti-slop, claude-code, codex, cursor",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "pushed_at": "2026-11-22"
+    },
+    {
+      "full_name": "cheaper-inference/OmniRoute",
+      "category": "mcp",
+      "categories": [
+        "mcp",
+        "ai-agents"
+      ],
+      "stars": 89828,
+      "stars_delta": 19,
+      "stars_per_day": 317.1,
+      "forks": 13929,
+      "language": "TypeScript",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors",
+      "topics": "a2a, ai-agents, ai-gateway, anthropic, claude, claude-code",
+      "url": "https://github.com/cheaper-inference/OmniRoute",
+      "pushed_at": "2026-11-23"
+    },
+    {
+      "full_name": "deepseek-ai/deepseek-harness",
+      "category": "ai-agents",
+      "categories": [
+        "ai-agents"
+      ],
+      "stars": 286011,
+      "stars_delta": 16,
+      "stars_per_day": 2796.3,
+      "forks": 35602,
+      "language": "TypeScript",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "topics": "ai-agents, cordis, dsh, dsh-plugin",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "pushed_at": "2026-11-22"
     },
     {
       "full_name": "JuliusBrussee/caveman",
@@ -353,10 +224,10 @@
       "categories": [
         "llm"
       ],
-      "stars": 122362,
-      "stars_delta": 0,
-      "stars_per_day": 524.5,
-      "forks": 7141,
+      "stars": 122378,
+      "stars_delta": 16,
+      "stars_per_day": 524.4,
+      "forks": 7143,
       "language": "Go",
       "description": "why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.",
       "topics": "ai, anthropic, caveman, claude, claude-code, llm",
@@ -370,8 +241,8 @@
         "ai-agents",
         "llm"
       ],
-      "stars": 99041,
-      "stars_delta": 0,
+      "stars": 99056,
+      "stars_delta": 15,
       "stars_per_day": 445.1,
       "forks": 6776,
       "language": "JavaScript",
@@ -388,10 +259,10 @@
         "ai-agents",
         "llm"
       ],
-      "stars": 116229,
-      "stars_delta": 0,
+      "stars": 116244,
+      "stars_delta": 15,
       "stars_per_day": 436.8,
-      "forks": 19306,
+      "forks": 19308,
       "language": "TypeScript",
       "description": "The open-source app everyone uses to manage agents at work",
       "topics": "acpx, agent-orchestration, agent-skills, agentic-ai, ai-agents, ai-engineering",
@@ -399,52 +270,52 @@
       "pushed_at": "2026-11-23"
     },
     {
-      "full_name": "Panniantong/Agent-Reach",
-      "category": "mcp",
+      "full_name": "iamajmeena/neonclipping",
+      "category": "rising",
       "categories": [
-        "mcp"
+        "rising"
       ],
-      "stars": 114217,
-      "stars_delta": 0,
-      "stars_per_day": 418.9,
-      "forks": 10254,
+      "stars": 2288,
+      "stars_delta": 11,
+      "stars_per_day": 524.3,
+      "forks": 142,
       "language": "Python",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "topics": "agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "pushed_at": "2026-11-22"
-    },
-    {
-      "full_name": "heygen-com/hyperframes",
-      "category": "mcp",
-      "categories": [
-        "mcp",
-        "ai-agents"
-      ],
-      "stars": 88780,
-      "stars_delta": 0,
-      "stars_per_day": 343.2,
-      "forks": 8282,
-      "language": "TypeScript",
-      "description": "Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.",
-      "topics": "agent-skills, ai, ai-agents, ai-video, ai-video-editor, animation",
-      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "topics": "ai-video-clipper, clipping, faster-whisper, ffmpeg, gameplay-clipper, local-llm",
+      "url": "https://github.com/iamajmeena/neonclipping",
       "pushed_at": "2026-11-23"
     },
     {
-      "full_name": "farion1231/cc-switch",
-      "category": "mcp",
+      "full_name": "NousResearch/hermes-agent",
+      "category": "ai-agents",
       "categories": [
-        "mcp"
+        "ai-agents",
+        "llm"
       ],
-      "stars": 156627,
-      "stars_delta": 0,
-      "stars_per_day": 329.0,
-      "forks": 10227,
-      "language": "Rust",
-      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
-      "topics": "ai-tools, claude-code, codex, deepseek-harness, desktop-app, grok",
-      "url": "https://github.com/farion1231/cc-switch",
+      "stars": 265625,
+      "stars_delta": 10,
+      "stars_per_day": 543.4,
+      "forks": 60104,
+      "language": "Python",
+      "description": "The agent that grows with you",
+      "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "pushed_at": "2026-11-23"
+    },
+    {
+      "full_name": "simplexai-labs/linger",
+      "category": "rising",
+      "categories": [
+        "rising"
+      ],
+      "stars": 4147,
+      "stars_delta": 10,
+      "stars_per_day": 304.5,
+      "forks": 387,
+      "language": "TypeScript",
+      "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing powerful local AI to everyday computers through efficient model–harness co-design, so everyone can run their own.",
+      "topics": "agent-teams, local-llm, memory, personal-agent, proactive-agent, proactive-ai",
+      "url": "https://github.com/simplexai-labs/linger",
       "pushed_at": "2026-11-23"
     },
     {
@@ -454,10 +325,10 @@
         "mcp",
         "ai-agents"
       ],
-      "stars": 79925,
-      "stars_delta": 0,
-      "stars_per_day": 319.8,
-      "forks": 14293,
+      "stars": 79934,
+      "stars_delta": 9,
+      "stars_per_day": 319.7,
+      "forks": 14295,
       "language": "Python",
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "topics": "agents, ai, ai-agents, ai-engineering, computer-vision, course",
@@ -465,35 +336,20 @@
       "pushed_at": "2026-11-18"
     },
     {
-      "full_name": "sybil-solutions/inference-optimisation-skill",
-      "category": "rising",
-      "categories": [
-        "rising"
-      ],
-      "stars": 2087,
-      "stars_delta": 0,
-      "stars_per_day": 300.1,
-      "forks": 198,
-      "language": "Python",
-      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-      "topics": "agent-skill, benchmarking, claude-code, inference, llm, speculative-decoding",
-      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-      "pushed_at": "2026-11-16"
-    },
-    {
-      "full_name": "ai-job-search-dev/ai-job-search",
+      "full_name": "bytedance/deer-flow",
       "category": "ai-agents",
       "categories": [
-        "ai-agents"
+        "ai-agents",
+        "llm"
       ],
-      "stars": 73121,
-      "stars_delta": 0,
-      "stars_per_day": 292.3,
-      "forks": 23401,
+      "stars": 85690,
+      "stars_delta": 9,
+      "stars_per_day": 151.5,
+      "forks": 12084,
       "language": "Python",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "topics": "ai, ai-agents, career, claude-code, cover-letter, cv",
-      "url": "https://github.com/ai-job-search-dev/ai-job-search",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "topics": "agent, agentic, agentic-framework, agentic-workflow, ai, ai-agents",
+      "url": "https://github.com/bytedance/deer-flow",
       "pushed_at": "2026-11-23"
     },
     {
@@ -502,8 +358,8 @@
       "categories": [
         "llm"
       ],
-      "stars": 87580,
-      "stars_delta": 0,
+      "stars": 87588,
+      "stars_delta": 8,
       "stars_per_day": 287.1,
       "forks": 5628,
       "language": "Rust",
@@ -513,29 +369,13 @@
       "pushed_at": "2026-11-23"
     },
     {
-      "full_name": "koala73/worldmonitor",
-      "category": "mcp",
-      "categories": [
-        "mcp"
-      ],
-      "stars": 91106,
-      "stars_delta": 0,
-      "stars_per_day": 285.6,
-      "forks": 14144,
-      "language": "TypeScript",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "topics": "agent, ai, dashboard, gemini-cli-extension, geopolitics, mcp",
-      "url": "https://github.com/koala73/worldmonitor",
-      "pushed_at": "2026-11-23"
-    },
-    {
       "full_name": "thedotmack/claude-mem",
       "category": "ai-agents",
       "categories": [
         "ai-agents"
       ],
-      "stars": 119272,
-      "stars_delta": 0,
+      "stars": 119280,
+      "stars_delta": 8,
       "stars_per_day": 265.7,
       "forks": 10361,
       "language": "TypeScript",
@@ -545,109 +385,13 @@
       "pushed_at": "2026-11-23"
     },
     {
-      "full_name": "headroomlabs-ai/headroom",
-      "category": "mcp",
-      "categories": [
-        "mcp"
-      ],
-      "stars": 80646,
-      "stars_delta": 0,
-      "stars_per_day": 252.1,
-      "forks": 6320,
-      "language": "Python",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "topics": "agent, ai, anthropic, claude-code, compression, context-engineering",
-      "url": "https://github.com/headroomlabs-ai/headroom",
-      "pushed_at": "2026-11-23"
-    },
-    {
-      "full_name": "XinaTian/MROffice",
-      "category": "rising",
-      "categories": [
-        "rising"
-      ],
-      "stars": 2728,
-      "stars_delta": 0,
-      "stars_per_day": 210.1,
-      "forks": 315,
-      "language": "TypeScript",
-      "description": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line.",
-      "topics": "ai, ai-agent, claude-code, codex, copilot, cursor",
-      "url": "https://github.com/XinaTian/MROffice",
-      "pushed_at": "2026-11-23"
-    },
-    {
-      "full_name": "datawhalechina/hello-agents",
-      "category": "llm",
-      "categories": [
-        "llm"
-      ],
-      "stars": 87743,
-      "stars_delta": 0,
-      "stars_per_day": 198.4,
-      "forks": 10957,
-      "language": "Python",
-      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "topics": "agent, llm, rag, tutorial",
-      "url": "https://github.com/datawhalechina/hello-agents",
-      "pushed_at": "2026-11-13"
-    },
-    {
-      "full_name": "danielwh2/sprite-stacking",
-      "category": "rising",
-      "categories": [
-        "rising"
-      ],
-      "stars": 618,
-      "stars_delta": 0,
-      "stars_per_day": 197.7,
-      "forks": 49,
-      "language": "HTML",
-      "description": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
-      "topics": "agent-skills, claude-code, codex, cursor, fake-3d, gamedev",
-      "url": "https://github.com/danielwh2/sprite-stacking",
-      "pushed_at": "2026-11-21"
-    },
-    {
-      "full_name": "ruvnet/RuView",
-      "category": "mcp",
-      "categories": [
-        "mcp"
-      ],
-      "stars": 104936,
-      "stars_delta": 0,
-      "stars_per_day": 196.3,
-      "forks": 13599,
-      "language": "Rust",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "topics": "claude, claude-code, esp32, firmware, home-assistant, home-automation",
-      "url": "https://github.com/ruvnet/RuView",
-      "pushed_at": "2026-11-23"
-    },
-    {
-      "full_name": "google-gemini/gemini-cli",
-      "category": "ai-agents",
-      "categories": [
-        "ai-agents"
-      ],
-      "stars": 109021,
-      "stars_delta": 0,
-      "stars_per_day": 186.4,
-      "forks": 14982,
-      "language": "TypeScript",
-      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-      "topics": "ai, ai-agents, cli, gemini, gemini-api, mcp-client",
-      "url": "https://github.com/google-gemini/gemini-cli",
-      "pushed_at": "2026-11-23"
-    },
-    {
       "full_name": "TauricResearch/TradingAgents",
       "category": "llm",
       "categories": [
         "llm"
       ],
-      "stars": 123578,
-      "stars_delta": 0,
+      "stars": 123586,
+      "stars_delta": 8,
       "stars_per_day": 177.7,
       "forks": 23666,
       "language": "Python",
@@ -657,15 +401,144 @@
       "pushed_at": "2026-11-17"
     },
     {
+      "full_name": "Panniantong/Agent-Reach",
+      "category": "mcp",
+      "categories": [
+        "mcp"
+      ],
+      "stars": 114224,
+      "stars_delta": 7,
+      "stars_per_day": 418.9,
+      "forks": 10256,
+      "language": "Python",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "topics": "agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "pushed_at": "2026-11-22"
+    },
+    {
+      "full_name": "D4Vinci/Scrapling",
+      "category": "mcp",
+      "categories": [
+        "mcp"
+      ],
+      "stars": 105254,
+      "stars_delta": 7,
+      "stars_per_day": 136.5,
+      "forks": 11020,
+      "language": "Python",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "topics": "ai, ai-scraping, automation, crawler, crawling, crawling-python",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "pushed_at": "2026-11-23"
+    },
+    {
+      "full_name": "danielwh2/sprite-stacking",
+      "category": "rising",
+      "categories": [
+        "rising"
+      ],
+      "stars": 624,
+      "stars_delta": 6,
+      "stars_per_day": 196.6,
+      "forks": 49,
+      "language": "HTML",
+      "description": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+      "topics": "agent-skills, claude-code, codex, cursor, fake-3d, gamedev",
+      "url": "https://github.com/danielwh2/sprite-stacking",
+      "pushed_at": "2026-11-21"
+    },
+    {
+      "full_name": "langgenius/dify",
+      "category": "mcp",
+      "categories": [
+        "mcp",
+        "llm"
+      ],
+      "stars": 161754,
+      "stars_delta": 6,
+      "stars_per_day": 122.4,
+      "forks": 25540,
+      "language": "Python",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "topics": "agent, agentic-ai, agentic-framework, agentic-workflow, ai, automation",
+      "url": "https://github.com/langgenius/dify",
+      "pushed_at": "2026-11-23"
+    },
+    {
+      "full_name": "sybil-solutions/inference-optimisation-skill",
+      "category": "rising",
+      "categories": [
+        "rising"
+      ],
+      "stars": 2092,
+      "stars_delta": 5,
+      "stars_per_day": 298.7,
+      "forks": 198,
+      "language": "Python",
+      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "topics": "agent-skill, benchmarking, claude-code, inference, llm, speculative-decoding",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "pushed_at": "2026-11-16"
+    },
+    {
+      "full_name": "headroomlabs-ai/headroom",
+      "category": "mcp",
+      "categories": [
+        "mcp"
+      ],
+      "stars": 80651,
+      "stars_delta": 5,
+      "stars_per_day": 252.1,
+      "forks": 6322,
+      "language": "Python",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "topics": "agent, ai, anthropic, claude-code, compression, context-engineering",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "pushed_at": "2026-11-23"
+    },
+    {
+      "full_name": "vllm-project/vllm",
+      "category": "llm",
+      "categories": [
+        "llm"
+      ],
+      "stars": 97417,
+      "stars_delta": 5,
+      "stars_per_day": 70.4,
+      "forks": 25187,
+      "language": "Python",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "topics": "amd, blackwell, cuda, deepseek, deepseek-v3, gpt",
+      "url": "https://github.com/vllm-project/vllm",
+      "pushed_at": "2026-11-23"
+    },
+    {
+      "full_name": "XinaTian/MROffice",
+      "category": "rising",
+      "categories": [
+        "rising"
+      ],
+      "stars": 2732,
+      "stars_delta": 4,
+      "stars_per_day": 209.6,
+      "forks": 315,
+      "language": "TypeScript",
+      "description": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line.",
+      "topics": "ai, ai-agent, claude-code, codex, copilot, cursor",
+      "url": "https://github.com/XinaTian/MROffice",
+      "pushed_at": "2026-11-23"
+    },
+    {
       "full_name": "INK-Q/agy-fast",
       "category": "rising",
       "categories": [
         "rising"
       ],
-      "stars": 765,
-      "stars_delta": 0,
-      "stars_per_day": 169.1,
-      "forks": 44,
+      "stars": 769,
+      "stars_delta": 4,
+      "stars_per_day": 168.2,
+      "forks": 45,
       "language": "TypeScript",
       "description": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
       "topics": "ai-agent, ai-coding, antigravity, antigravity-cli, antigravity-ide, antigravity-plugins",
@@ -680,8 +553,8 @@
         "ai-agents",
         "llm"
       ],
-      "stars": 121845,
-      "stars_delta": 0,
+      "stars": 121849,
+      "stars_delta": 4,
       "stars_per_day": 161.8,
       "forks": 13621,
       "language": "Python",
@@ -691,20 +564,51 @@
       "pushed_at": "2026-11-22"
     },
     {
-      "full_name": "ruvnet/ruflo",
+      "full_name": "ThreatDefence/agentic-attack-detections",
+      "category": "rising",
+      "categories": [
+        "rising"
+      ],
+      "stars": 542,
+      "stars_delta": 4,
+      "stars_per_day": 143.5,
+      "forks": 107,
+      "language": "Python",
+      "description": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
+      "topics": "agentic-ai, ai-security, blue-team, defender-xdr, detection-engineering, ioc",
+      "url": "https://github.com/ThreatDefence/agentic-attack-detections",
+      "pushed_at": "2026-11-23"
+    },
+    {
+      "full_name": "OpenHands/OpenHands",
+      "category": "llm",
+      "categories": [
+        "llm"
+      ],
+      "stars": 94156,
+      "stars_delta": 4,
+      "stars_per_day": 95.5,
+      "forks": 12601,
+      "language": "TypeScript",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "topics": "agent, artificial-intelligence, chatgpt, claude-ai, cli, developer-tools",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "pushed_at": "2026-11-23"
+    },
+    {
+      "full_name": "farion1231/cc-switch",
       "category": "mcp",
       "categories": [
-        "mcp",
-        "ai-agents"
+        "mcp"
       ],
-      "stars": 82319,
-      "stars_delta": 0,
-      "stars_per_day": 152.8,
-      "forks": 9700,
-      "language": "TypeScript",
-      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "topics": "agent-memory, agent-orchestration, agentic-ai, agentic-workflow, ai-agents, autonomous-agents",
-      "url": "https://github.com/ruvnet/ruflo",
+      "stars": 156630,
+      "stars_delta": 3,
+      "stars_per_day": 328.9,
+      "forks": 10228,
+      "language": "Rust",
+      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
+      "topics": "ai-tools, claude-code, codex, deepseek-harness, desktop-app, grok",
+      "url": "https://github.com/farion1231/cc-switch",
       "pushed_at": "2026-11-23"
     },
     {
@@ -713,8 +617,8 @@
       "categories": [
         "llm"
       ],
-      "stars": 145208,
-      "stars_delta": 0,
+      "stars": 145211,
+      "stars_delta": 3,
       "stars_per_day": 147.0,
       "forks": 23360,
       "language": "Python",
@@ -724,52 +628,35 @@
       "pushed_at": "2026-11-23"
     },
     {
-      "full_name": "ThreatDefence/agentic-attack-detections",
-      "category": "rising",
-      "categories": [
-        "rising"
-      ],
-      "stars": 538,
-      "stars_delta": 0,
-      "stars_per_day": 144.3,
-      "forks": 107,
-      "language": "Python",
-      "description": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
-      "topics": "agentic-ai, ai-security, blue-team, defender-xdr, detection-engineering, ioc",
-      "url": "https://github.com/ThreatDefence/agentic-attack-detections",
-      "pushed_at": "2026-11-23"
-    },
-    {
-      "full_name": "Significant-Gravitas/AutoGPT",
-      "category": "llm",
-      "categories": [
-        "llm"
-      ],
-      "stars": 188155,
-      "stars_delta": 0,
-      "stars_per_day": 139.5,
-      "forks": 45823,
-      "language": "Python",
-      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "topics": "agentic-ai, agents, ai, artificial-intelligence, autonomous-agents, claude",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "pushed_at": "2026-11-23"
-    },
-    {
-      "full_name": "open-webui/open-webui",
+      "full_name": "n8n-io/n8n",
       "category": "mcp",
       "categories": [
-        "mcp",
-        "llm"
+        "mcp"
       ],
-      "stars": 159346,
-      "stars_delta": 0,
-      "stars_per_day": 139.3,
-      "forks": 23125,
-      "language": "Svelte",
-      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "topics": "ai, llm, llm-ui, llm-webui, llms, mcp",
-      "url": "https://github.com/open-webui/open-webui",
+      "stars": 211918,
+      "stars_delta": 3,
+      "stars_per_day": 78.2,
+      "forks": 61633,
+      "language": "TypeScript",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "topics": "ai, apis, automation, cli, data-flow, development",
+      "url": "https://github.com/n8n-io/n8n",
+      "pushed_at": "2026-11-23"
+    },
+    {
+      "full_name": "ai-job-search-dev/ai-job-search",
+      "category": "ai-agents",
+      "categories": [
+        "ai-agents"
+      ],
+      "stars": 73123,
+      "stars_delta": 2,
+      "stars_per_day": 292.3,
+      "forks": 23402,
+      "language": "Python",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "topics": "ai, ai-agents, career, claude-code, cover-letter, cv",
+      "url": "https://github.com/ai-job-search-dev/ai-job-search",
       "pushed_at": "2026-11-23"
     },
     {
@@ -778,30 +665,14 @@
       "categories": [
         "mcp"
       ],
-      "stars": 98421,
-      "stars_delta": 0,
+      "stars": 98423,
+      "stars_delta": 2,
       "stars_per_day": 136.0,
-      "forks": 20743,
+      "forks": 20748,
       "language": "Multi",
       "description": "A collection of MCP servers.",
       "topics": "ai, mcp",
       "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "pushed_at": "2026-11-23"
-    },
-    {
-      "full_name": "agentes-chat/agentes-chat",
-      "category": "rising",
-      "categories": [
-        "rising"
-      ],
-      "stars": 1984,
-      "stars_delta": 0,
-      "stars_per_day": 135.0,
-      "forks": 389,
-      "language": "TypeScript",
-      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
-      "topics": "agentic-ai, ai-agents, browser-automation, chat, claude, claude-code",
-      "url": "https://github.com/agentes-chat/agentes-chat",
       "pushed_at": "2026-11-23"
     },
     {
@@ -810,10 +681,10 @@
       "categories": [
         "llm"
       ],
-      "stars": 178324,
-      "stars_delta": 0,
+      "stars": 178326,
+      "stars_delta": 2,
       "stars_per_day": 123.1,
-      "forks": 22728,
+      "forks": 22730,
       "language": "MDX",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
       "topics": "ai, artificial-intelligence, awesome-list, chatgpt, chatgpt-prompts, claude",
@@ -821,48 +692,15 @@
       "pushed_at": "2026-11-23"
     },
     {
-      "full_name": "langgenius/dify",
-      "category": "mcp",
-      "categories": [
-        "mcp",
-        "llm"
-      ],
-      "stars": 161748,
-      "stars_delta": 0,
-      "stars_per_day": 122.4,
-      "forks": 25540,
-      "language": "Python",
-      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "topics": "agent, agentic-ai, agentic-framework, agentic-workflow, ai, automation",
-      "url": "https://github.com/langgenius/dify",
-      "pushed_at": "2026-11-23"
-    },
-    {
-      "full_name": "boringmarketer/boring-marketing-skills",
-      "category": "rising",
-      "categories": [
-        "rising"
-      ],
-      "stars": 810,
-      "stars_delta": 0,
-      "stars_per_day": 114.1,
-      "forks": 282,
-      "language": "Python",
-      "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
-      "topics": "agent-skills, ai-agents, claude-code, codex, copywriting, local-seo",
-      "url": "https://github.com/boringmarketer/boring-marketing-skills",
-      "pushed_at": "2026-11-17"
-    },
-    {
       "full_name": "microsoft/ai-agents-for-beginners",
       "category": "ai-agents",
       "categories": [
         "ai-agents"
       ],
-      "stars": 80842,
-      "stars_delta": 0,
+      "stars": 80844,
+      "stars_delta": 2,
       "stars_per_day": 111.5,
-      "forks": 26425,
+      "forks": 26426,
       "language": "Jupyter Notebook",
       "description": "18 Lessons to Get Started Building AI Agents",
       "topics": "agentic-ai, agentic-framework, agentic-rag, ai-agents, ai-agents-framework, autogen",
@@ -870,84 +708,19 @@
       "pushed_at": "2026-11-17"
     },
     {
-      "full_name": "sansan0/TrendRadar",
-      "category": "mcp",
-      "categories": [
-        "mcp"
-      ],
-      "stars": 63831,
-      "stars_delta": 0,
-      "stars_per_day": 111.2,
-      "forks": 24936,
-      "language": "Python",
-      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, web search, MCP & smart alerts.🎯 告别信息过载，你的 AI     舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅 + 定时联网搜索，支持关键词与 AI 智能筛选。AI 翻译 + AI 分析简报直推手机，支持接入 MCP     架构，赋能 AI 自然语言对话分析、实时检索、情感洞察与趋势预测。支持 Docker，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/Bark/Slack     等渠道智能推送。",
-      "topics": "ai, bark, data-analysis, docker, hot-news, llm",
-      "url": "https://github.com/sansan0/TrendRadar",
-      "pushed_at": "2026-11-21"
-    },
-    {
       "full_name": "upstash/context7",
       "category": "mcp",
       "categories": [
         "mcp"
       ],
-      "stars": 65334,
-      "stars_delta": 0,
+      "stars": 65336,
+      "stars_delta": 2,
       "stars_per_day": 107.7,
       "forks": 3265,
       "language": "TypeScript",
       "description": "Context7 Platform -- Up-to-date docs for AI agents",
       "topics": "llm, mcp, mcp-server, vibe-coding",
       "url": "https://github.com/upstash/context7",
-      "pushed_at": "2026-11-23"
-    },
-    {
-      "full_name": "huggingface/pybot",
-      "category": "rising",
-      "categories": [
-        "rising"
-      ],
-      "stars": 1137,
-      "stars_delta": 0,
-      "stars_per_day": 101.1,
-      "forks": 128,
-      "language": "Python",
-      "description": "PyBot: a chatbot written in pure Python by a swarm of agents. No weights, no training, just rules.",
-      "topics": "",
-      "url": "https://github.com/huggingface/pybot",
-      "pushed_at": "2026-11-16"
-    },
-    {
-      "full_name": "langchain-ai/langchain",
-      "category": "ai-agents",
-      "categories": [
-        "ai-agents",
-        "llm"
-      ],
-      "stars": 149958,
-      "stars_delta": 0,
-      "stars_per_day": 100.1,
-      "forks": 25161,
-      "language": "Python",
-      "description": "The agent engineering platform.",
-      "topics": "agents, ai, ai-agents, anthropic, chatgpt, deepagents",
-      "url": "https://github.com/langchain-ai/langchain",
-      "pushed_at": "2026-11-23"
-    },
-    {
-      "full_name": "OpenHands/OpenHands",
-      "category": "llm",
-      "categories": [
-        "llm"
-      ],
-      "stars": 94152,
-      "stars_delta": 0,
-      "stars_per_day": 95.5,
-      "forks": 12601,
-      "language": "TypeScript",
-      "description": "🙌 OpenHands: AI-Driven Development",
-      "topics": "agent, artificial-intelligence, chatgpt, claude-ai, cli, developer-tools",
-      "url": "https://github.com/OpenHands/OpenHands",
       "pushed_at": "2026-11-23"
     },
     {
@@ -958,10 +731,10 @@
         "ai-agents",
         "llm"
       ],
-      "stars": 87719,
-      "stars_delta": 0,
+      "stars": 87721,
+      "stars_delta": 2,
       "stars_per_day": 94.5,
-      "forks": 9142,
+      "forks": 9140,
       "language": "Python",
       "description": "Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powers it, and you can self-host it.",
       "topics": "ai, ai-agents, crawl4ai-cloud, crawler, data-extraction, llm",
@@ -974,8 +747,8 @@
       "categories": [
         "llm"
       ],
-      "stars": 108909,
-      "stars_delta": 0,
+      "stars": 108911,
+      "stars_delta": 2,
       "stars_per_day": 89.3,
       "forks": 16832,
       "language": "Jupyter Notebook",
@@ -990,8 +763,8 @@
       "categories": [
         "ai-agents"
       ],
-      "stars": 94593,
-      "stars_delta": 0,
+      "stars": 94595,
+      "stars_delta": 2,
       "stars_per_day": 87.8,
       "forks": 11373,
       "language": "Go",
@@ -1006,10 +779,10 @@
       "categories": [
         "rising"
       ],
-      "stars": 765,
-      "stars_delta": 0,
-      "stars_per_day": 82.1,
-      "forks": 45,
+      "stars": 767,
+      "stars_delta": 2,
+      "stars_per_day": 81.8,
+      "forks": 46,
       "language": "Python",
       "description": "Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, logo, posters, UI.",
       "topics": "agent-skills, claude-code, claude-code-plugin, claude-skills, codex, creative-writing",
@@ -1017,61 +790,13 @@
       "pushed_at": "2026-11-20"
     },
     {
-      "full_name": "alexeyw/lot-map",
-      "category": "rising",
-      "categories": [
-        "rising"
-      ],
-      "stars": 1137,
-      "stars_delta": 0,
-      "stars_per_day": 81.6,
-      "forks": 120,
-      "language": "TypeScript",
-      "description": "Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. Tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 8 languages.",
-      "topics": "agent-observability, ai-agents, claude, claude-code, claude-code-plugin, developer-tools",
-      "url": "https://github.com/alexeyw/lot-map",
-      "pushed_at": "2026-11-22"
-    },
-    {
-      "full_name": "Dodaios/ste80-humanizer",
-      "category": "rising",
-      "categories": [
-        "rising"
-      ],
-      "stars": 1098,
-      "stars_delta": 0,
-      "stars_per_day": 78.4,
-      "forks": 74,
-      "language": "Python",
-      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-      "topics": "agent-skills, ai-writing, asd-ste100, claude-code, claude-skills, codex",
-      "url": "https://github.com/Dodaios/ste80-humanizer",
-      "pushed_at": "2026-11-18"
-    },
-    {
-      "full_name": "vllm-project/vllm",
-      "category": "llm",
-      "categories": [
-        "llm"
-      ],
-      "stars": 97412,
-      "stars_delta": 0,
-      "stars_per_day": 70.4,
-      "forks": 25183,
-      "language": "Python",
-      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "topics": "amd, blackwell, cuda, deepseek, deepseek-v3, gpt",
-      "url": "https://github.com/vllm-project/vllm",
-      "pushed_at": "2026-11-23"
-    },
-    {
       "full_name": "lobehub/lobehub",
       "category": "mcp",
       "categories": [
         "mcp"
       ],
-      "stars": 86052,
-      "stars_delta": 0,
+      "stars": 86054,
+      "stars_delta": 2,
       "stars_per_day": 67.1,
       "forks": 16350,
       "language": "TypeScript",
@@ -1081,20 +806,149 @@
       "pushed_at": "2026-11-23"
     },
     {
-      "full_name": "huggingface/transformers",
+      "full_name": "Moh4696/cinematic-skill",
+      "category": "rising",
+      "categories": [
+        "rising"
+      ],
+      "stars": 938,
+      "stars_delta": 2,
+      "stars_per_day": 64.9,
+      "forks": 150,
+      "language": "Python",
+      "description": "Agent skill for narrated cinematic films built entirely from code: one continuous camera over photos, maps and cards, timed to the voice. Claude Code, Codex, Cursor, Gemini CLI.",
+      "topics": "agent-skills, claude-code, codex, documentary, explainer-video, motion-graphics",
+      "url": "https://github.com/Moh4696/cinematic-skill",
+      "pushed_at": "2026-11-09"
+    },
+    {
+      "full_name": "koala73/worldmonitor",
+      "category": "mcp",
+      "categories": [
+        "mcp"
+      ],
+      "stars": 91107,
+      "stars_delta": 1,
+      "stars_per_day": 285.6,
+      "forks": 14146,
+      "language": "TypeScript",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "topics": "agent, ai, dashboard, gemini-cli-extension, geopolitics, mcp",
+      "url": "https://github.com/koala73/worldmonitor",
+      "pushed_at": "2026-11-23"
+    },
+    {
+      "full_name": "datawhalechina/hello-agents",
       "category": "llm",
       "categories": [
         "llm"
       ],
-      "stars": 169373,
-      "stars_delta": 0,
-      "stars_per_day": 57.5,
-      "forks": 35279,
+      "stars": 87744,
+      "stars_delta": 1,
+      "stars_per_day": 198.3,
+      "forks": 10958,
       "language": "Python",
-      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-      "topics": "audio, deep-learning, deepseek, gemma, glm, hacktoberfest",
-      "url": "https://github.com/huggingface/transformers",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "topics": "agent, llm, rag, tutorial",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "pushed_at": "2026-11-13"
+    },
+    {
+      "full_name": "ruvnet/RuView",
+      "category": "mcp",
+      "categories": [
+        "mcp"
+      ],
+      "stars": 104937,
+      "stars_delta": 1,
+      "stars_per_day": 196.3,
+      "forks": 13599,
+      "language": "Rust",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "topics": "claude, claude-code, esp32, firmware, home-assistant, home-automation",
+      "url": "https://github.com/ruvnet/RuView",
       "pushed_at": "2026-11-23"
+    },
+    {
+      "full_name": "open-webui/open-webui",
+      "category": "mcp",
+      "categories": [
+        "mcp",
+        "llm"
+      ],
+      "stars": 159347,
+      "stars_delta": 1,
+      "stars_per_day": 139.3,
+      "forks": 23125,
+      "language": "Svelte",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "topics": "ai, llm, llm-ui, llm-webui, llms, mcp",
+      "url": "https://github.com/open-webui/open-webui",
+      "pushed_at": "2026-11-23"
+    },
+    {
+      "full_name": "agentes-chat/agentes-chat",
+      "category": "rising",
+      "categories": [
+        "rising"
+      ],
+      "stars": 1985,
+      "stars_delta": 1,
+      "stars_per_day": 134.6,
+      "forks": 389,
+      "language": "TypeScript",
+      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "topics": "agentic-ai, ai-agents, browser-automation, chat, claude, claude-code",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "pushed_at": "2026-11-23"
+    },
+    {
+      "full_name": "boringmarketer/boring-marketing-skills",
+      "category": "rising",
+      "categories": [
+        "rising"
+      ],
+      "stars": 811,
+      "stars_delta": 1,
+      "stars_per_day": 113.4,
+      "forks": 282,
+      "language": "Python",
+      "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+      "topics": "agent-skills, ai-agents, claude-code, codex, copywriting, local-seo",
+      "url": "https://github.com/boringmarketer/boring-marketing-skills",
+      "pushed_at": "2026-11-17"
+    },
+    {
+      "full_name": "sansan0/TrendRadar",
+      "category": "mcp",
+      "categories": [
+        "mcp"
+      ],
+      "stars": 63832,
+      "stars_delta": 1,
+      "stars_per_day": 111.1,
+      "forks": 24936,
+      "language": "Python",
+      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, web search, MCP & smart alerts.🎯 告别信息过载，你的 AI     舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅 + 定时联网搜索，支持关键词与 AI 智能筛选。AI 翻译 + AI 分析简报直推手机，支持接入 MCP     架构，赋能 AI 自然语言对话分析、实时检索、情感洞察与趋势预测。支持 Docker，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/Bark/Slack     等渠道智能推送。",
+      "topics": "ai, bark, data-analysis, docker, hot-news, llm",
+      "url": "https://github.com/sansan0/TrendRadar",
+      "pushed_at": "2026-11-21"
+    },
+    {
+      "full_name": "Dodaios/ste80-humanizer",
+      "category": "rising",
+      "categories": [
+        "rising"
+      ],
+      "stars": 1099,
+      "stars_delta": 1,
+      "stars_per_day": 78.2,
+      "forks": 74,
+      "language": "Python",
+      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "topics": "agent-skills, ai-writing, asd-ste100, claude-code, claude-skills, codex",
+      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "pushed_at": "2026-11-18"
     },
     {
       "full_name": "Snailclimb/JavaGuide",
@@ -1102,8 +956,8 @@
       "categories": [
         "mcp"
       ],
-      "stars": 159654,
-      "stars_delta": 0,
+      "stars": 159655,
+      "stars_delta": 1,
       "stars_per_day": 51.1,
       "forks": 46094,
       "language": "JavaScript",
@@ -1113,6 +967,71 @@
       "pushed_at": "2026-10-25"
     },
     {
+      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "category": "rising",
+      "categories": [
+        "rising"
+      ],
+      "stars": 2764,
+      "stars_delta": 0,
+      "stars_per_day": 663.3,
+      "forks": 40,
+      "language": "Multi",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "topics": "ai-agents, ai-assistant, blender, blender-addon, blender-ai, blender-automation",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+      "pushed_at": "2026-11-22"
+    },
+    {
+      "full_name": "ruvnet/ruflo",
+      "category": "mcp",
+      "categories": [
+        "mcp",
+        "ai-agents"
+      ],
+      "stars": 82319,
+      "stars_delta": 0,
+      "stars_per_day": 152.8,
+      "forks": 9701,
+      "language": "TypeScript",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "topics": "agent-memory, agent-orchestration, agentic-ai, agentic-workflow, ai-agents, autonomous-agents",
+      "url": "https://github.com/ruvnet/ruflo",
+      "pushed_at": "2026-11-23"
+    },
+    {
+      "full_name": "huggingface/pybot",
+      "category": "rising",
+      "categories": [
+        "rising"
+      ],
+      "stars": 1137,
+      "stars_delta": 0,
+      "stars_per_day": 100.6,
+      "forks": 128,
+      "language": "Python",
+      "description": "PyBot: a chatbot written in pure Python by a swarm of agents. No weights, no training, just rules.",
+      "topics": "",
+      "url": "https://github.com/huggingface/pybot",
+      "pushed_at": "2026-11-16"
+    },
+    {
+      "full_name": "alexeyw/lot-map",
+      "category": "rising",
+      "categories": [
+        "rising"
+      ],
+      "stars": 1137,
+      "stars_delta": 0,
+      "stars_per_day": 81.3,
+      "forks": 120,
+      "language": "TypeScript",
+      "description": "Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. Tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 8 languages.",
+      "topics": "agent-observability, ai-agents, claude, claude-code, claude-code-plugin, developer-tools",
+      "url": "https://github.com/alexeyw/lot-map",
+      "pushed_at": "2026-11-22"
+    },
+    {
       "full_name": "berkantay/gpucanvas",
       "category": "rising",
       "categories": [
@@ -1120,7 +1039,7 @@
       ],
       "stars": 550,
       "stars_delta": 0,
-      "stars_per_day": 51.1,
+      "stars_per_day": 50.9,
       "forks": 41,
       "language": "TypeScript",
       "description": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
@@ -1136,7 +1055,7 @@
       ],
       "stars": 518,
       "stars_delta": 0,
-      "stars_per_day": 47.4,
+      "stars_per_day": 47.2,
       "forks": 13,
       "language": "Multi",
       "description": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual chat workspace, multi-agent teams and your choice of AI models. · blender ai mcp studio · mcp-for-blender · mcp for blender pro",
@@ -1152,7 +1071,7 @@
       ],
       "stars": 516,
       "stars_delta": 0,
-      "stars_per_day": 47.3,
+      "stars_per_day": 47.0,
       "forks": 14,
       "language": "Multi",
       "description": "An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations—inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tools. · blender-ai-copilot-studio · blender ai · ai for blender · blender copilot · blender ai copilot · blender ai assistant · blender mcp server",
@@ -1168,7 +1087,7 @@
       ],
       "stars": 515,
       "stars_delta": 0,
-      "stars_per_day": 47.2,
+      "stars_per_day": 47.0,
       "forks": 12,
       "language": "Multi",
       "description": "A controlled AI workflow for Blender: every copilot edit is a supervised tool call—proposed, approved, executed in sequence, cancellable after the current step and undoable by name—inside a visual studio with a built-in MCP server. · blender-ai-copilot-flow · blender · blender 3d · blender addon · blender plugin · blender extension",
@@ -1184,7 +1103,7 @@
       ],
       "stars": 516,
       "stars_delta": 0,
-      "stars_per_day": 46.6,
+      "stars_per_day": 46.4,
       "forks": 46,
       "language": "Python",
       "description": "桜井政博のゲーム作るには 全本編257本の字幕から作ったゲーム制作の Agent Skill（非公式・日本語）",
@@ -1200,7 +1119,7 @@
       ],
       "stars": 509,
       "stars_delta": 0,
-      "stars_per_day": 46.6,
+      "stars_per_day": 46.4,
       "forks": 13,
       "language": "Multi",
       "description": "A scene-forging AI copilot for Blender—describe the layout and watch primitives, cameras, lights, materials and parenting assemble in ordered steps, with approvals, named undo and a built-in MCP server. · blender-ai-copilot-forge · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation",
@@ -1216,7 +1135,7 @@
       ],
       "stars": 509,
       "stars_delta": 0,
-      "stars_per_day": 46.6,
+      "stars_per_day": 46.4,
       "forks": 15,
       "language": "Multi",
       "description": "An asset-savvy AI copilot for Blender—search Poly Haven, Sketchfab and Poly Pizza mid-conversation, check what fits, import after your confirmation, with 27 scene tools and a built-in MCP server alongside. · blender-ai-copilot-assets · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation",
@@ -1232,29 +1151,13 @@
       ],
       "stars": 552,
       "stars_delta": 0,
-      "stars_per_day": 44.4,
+      "stars_per_day": 44.2,
       "forks": 18,
       "language": "TypeScript",
       "description": "Agent-native viral video studio: deconstruct scripts, replicate structures, export editable projects and costed variants. Website: https://wearai.net/ai-video-generator",
       "topics": "ai-agent, ai-agents, short-video, short-video-generator, video-editing, video-script-deconstruction",
       "url": "https://github.com/fendouai/ViralForge",
       "pushed_at": "2026-11-23"
-    },
-    {
-      "full_name": "thedaviddias/Front-End-Checklist",
-      "category": "ai-agents",
-      "categories": [
-        "ai-agents"
-      ],
-      "stars": 74805,
-      "stars_delta": 0,
-      "stars_per_day": 22.5,
-      "forks": 6769,
-      "language": "MDX",
-      "description": "🗂 The essential checklist for modern web development, for humans and AI agents",
-      "topics": "ai-agent, ai-agents, checklist, css, front-end-developer-tool, front-end-development",
-      "url": "https://github.com/thedaviddias/Front-End-Checklist",
-      "pushed_at": "2026-10-31"
     },
     {
       "full_name": "netdata/netdata",
@@ -1270,6 +1173,103 @@
       "description": "Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI SRE · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish · 2000+ integrations",
       "topics": "ai, anomaly-detection, dashboard, data-visualization, database, devops",
       "url": "https://github.com/netdata/netdata",
+      "pushed_at": "2026-11-23"
+    },
+    {
+      "full_name": "ollama/ollama",
+      "category": "llm",
+      "categories": [
+        "llm"
+      ],
+      "stars": 187905,
+      "stars_delta": -1,
+      "stars_per_day": 150.8,
+      "forks": 19151,
+      "language": "Go",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "topics": "deepseek, gemma, glm, go, golang, gpt-oss",
+      "url": "https://github.com/ollama/ollama",
+      "pushed_at": "2026-11-23"
+    },
+    {
+      "full_name": "Significant-Gravitas/AutoGPT",
+      "category": "llm",
+      "categories": [
+        "llm"
+      ],
+      "stars": 188154,
+      "stars_delta": -1,
+      "stars_per_day": 139.5,
+      "forks": 45823,
+      "language": "Python",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "topics": "agentic-ai, agents, ai, artificial-intelligence, autonomous-agents, claude",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "pushed_at": "2026-11-23"
+    },
+    {
+      "full_name": "thedaviddias/Front-End-Checklist",
+      "category": "ai-agents",
+      "categories": [
+        "ai-agents"
+      ],
+      "stars": 74804,
+      "stars_delta": -1,
+      "stars_per_day": 22.5,
+      "forks": 6769,
+      "language": "MDX",
+      "description": "🗂 The essential checklist for modern web development, for humans and AI agents",
+      "topics": "ai-agent, ai-agents, checklist, css, front-end-developer-tool, front-end-development",
+      "url": "https://github.com/thedaviddias/Front-End-Checklist",
+      "pushed_at": "2026-10-31"
+    },
+    {
+      "full_name": "google-gemini/gemini-cli",
+      "category": "ai-agents",
+      "categories": [
+        "ai-agents"
+      ],
+      "stars": 109019,
+      "stars_delta": -2,
+      "stars_per_day": 186.3,
+      "forks": 14982,
+      "language": "TypeScript",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "topics": "ai, ai-agents, cli, gemini, gemini-api, mcp-client",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "pushed_at": "2026-11-23"
+    },
+    {
+      "full_name": "langchain-ai/langchain",
+      "category": "ai-agents",
+      "categories": [
+        "ai-agents",
+        "llm"
+      ],
+      "stars": 149956,
+      "stars_delta": -2,
+      "stars_per_day": 100.1,
+      "forks": 25160,
+      "language": "Python",
+      "description": "The agent engineering platform.",
+      "topics": "agents, ai, ai-agents, anthropic, chatgpt, deepagents",
+      "url": "https://github.com/langchain-ai/langchain",
+      "pushed_at": "2026-11-23"
+    },
+    {
+      "full_name": "huggingface/transformers",
+      "category": "llm",
+      "categories": [
+        "llm"
+      ],
+      "stars": 169369,
+      "stars_delta": -4,
+      "stars_per_day": 57.5,
+      "forks": 35279,
+      "language": "Python",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "topics": "audio, deep-learning, deepseek, gemma, glm, hacktoberfest",
+      "url": "https://github.com/huggingface/transformers",
       "pushed_at": "2026-11-23"
     }
   ]
