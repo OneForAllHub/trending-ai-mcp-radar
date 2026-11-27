@@ -1,6 +1,6 @@
 # Trending AI, Agents & MCP Radar 📡🤖
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--27T17%3A05%3A27Z-brightgreen?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--27T17%3A05%3A28Z-brightgreen?style=flat-square)
 ![Tracked Repos](https://img.shields.io/badge/Tracked%20Repos-78-blue?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
 
